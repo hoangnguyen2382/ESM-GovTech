@@ -1,0 +1,11 @@
+
+
+INSERT INTO User_Detail(id, login,name, salary) VALUES ('id11', 'login11', 'name11', 1000.11);    
+
+INSERT INTO User_Detail(id, login,name, salary) VALUES ('id12', 'login12', 'name12', 2000.22);    
+
+INSERT INTO User_Detail(id, login,name, salary) VALUES ('id13', 'login13', 'name13', 3000.33);    
+
+INSERT INTO User_Detail(id, login,name, salary) VALUES ('id14', 'login14', 'name14', 4000.44);    
+
+INSERT INTO User_Detail(id, login,name, salary) VALUES ('id15', 'login15', 'name15', 5555.55);    
