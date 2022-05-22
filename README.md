@@ -1,5 +1,5 @@
 #### System Overview
-The project is to implement Employment Salary Management Rest API system using Spring Boot. These are frameworks and tools used in this application
+The project is to implement Employee Salary Management Rest API system using Spring Boot. These are frameworks and tools used in this application
 - **SpringBoot-Starter Web**: Rest API
 - **SpringBoot-Starter Data JPA**: Data repository
 - **Spring Validation**: Validation
@@ -57,5 +57,5 @@ The unit tests have been added to verify the implementation. The code coverage i
 #### Suggestion
 - If there is a need to process for big CSV file, please consider other file receiving channels such as SFTP and process backend with SpingBatch.
 - We could generalize the API response with a CommonReponse for all APIs. CommonResponse will reflect: status, messages,...
-- Adding authentication-authorization to secure APIs
-- Adding more unit test cases to CSVParserUtil.
+- Adding security to secure APIs
+
